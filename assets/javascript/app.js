@@ -67,7 +67,7 @@ $("#startButton").on("click", function(){
 
 
 
-//create a function that populates question div with the first random question
+//create a function that populates question div with the first random question dynamically
 
 
 //create a function to populate answers div with first set of answers as individual buttons
@@ -77,6 +77,8 @@ $("#startButton").on("click", function(){
 //uLTIMATELY: on the click event
 //shuffle the questions--> replace the opening screen w/ questions and answers
 //set the interval countdown to 5,000; which populates the question
-//populate the question =
+//populate the question 
+
+//
 
 
